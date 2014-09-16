@@ -1,0 +1,14 @@
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\bin\Debug\SalaryPaymentUI.exe
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\bin\Debug\SalaryPaymentUI.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\bin\Debug\SalaryPayment.exe
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\bin\Debug\SalaryPayment.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.csprojResolveAssemblyReference.cache
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.Properties.Resources.resources
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.csproj.GenerateResource.Cache
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.exe
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.AddEmployeeWindow.resources
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.PaymentWindow.resources
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\bin\Debug\nunit.framework.dll
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\bin\Debug\nunit.framework.xml
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentUI\obj\x86\Debug\SalaryPaymentUI.AddSalesReceiptWindow.resources

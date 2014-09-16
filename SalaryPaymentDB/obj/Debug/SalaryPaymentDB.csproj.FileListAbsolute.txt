@@ -1,0 +1,8 @@
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\bin\Debug\SalaryPaymentDB.dll
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\bin\Debug\SalaryPaymentDB.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\bin\Debug\SalaryPayment.exe
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\bin\Debug\SalaryPayment.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\obj\Debug\SalaryPaymentDB.csprojResolveAssemblyReference.cache
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\obj\Debug\SalaryPaymentDB.dll
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\obj\Debug\SalaryPaymentDB.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPaymentDB\bin\Debug\System.Data.SQLite.dll

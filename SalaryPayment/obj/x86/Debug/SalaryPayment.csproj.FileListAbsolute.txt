@@ -1,0 +1,5 @@
+D:\C#Pro\VS2010\SalaryPayment\SalaryPayment\bin\Debug\SalaryPayment.exe
+D:\C#Pro\VS2010\SalaryPayment\SalaryPayment\bin\Debug\SalaryPayment.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPayment\obj\x86\Debug\SalaryPayment.exe
+D:\C#Pro\VS2010\SalaryPayment\SalaryPayment\obj\x86\Debug\SalaryPayment.pdb
+D:\C#Pro\VS2010\SalaryPayment\SalaryPayment\obj\x86\Debug\SalaryPayment.csprojResolveAssemblyReference.cache
